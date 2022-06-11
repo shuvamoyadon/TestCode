@@ -1,0 +1,12 @@
+{
+  "filepath": ["C:\\Users\\shumondal\\Desktop\\myode\\tt"],
+  "tableName":["test"],
+  "format": "csv",
+  "numOfPartitionForeachfile": [2],
+  "defaultFormat": "parquet",
+  "options":{"header":"true","inferSchema":"true"},
+  "outputFilePath":["C:\\Users\\shumondal\\Desktop\\myode\\tt\\otpt"],
+  "writeFormat": "parquet",
+  "PartitionKey":["resid"],
+  "mode":"overwrite"
+}

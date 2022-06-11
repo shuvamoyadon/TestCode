@@ -1,0 +1,5 @@
+{
+  "filename": ["p1234_Oil_And_GasInfo_Gotsk.csv","zoo.csv"],
+  "filepath": "s3://shuvabuc9096/myfile/",
+  "format": "csv"
+}

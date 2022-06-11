@@ -1,0 +1,6 @@
+root
+ |-- Response: integer (nullable = true)
+ |-- Guild: string (nullable = true)
+
+SUCCESS: The process with PID 15136 (child process of PID 8172) has been terminated.
+SUCCESS: The process with PID 8172 (child process of PID 51284) has been terminated.
